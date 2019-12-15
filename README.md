@@ -38,3 +38,7 @@ If you wish to test you can use [Swagger](https://swagger.io/) to do this. Just 
 ### Localhost
 
 If you wish to test in your local, you can run `npm run start:dev` and access `http://localhost:3000/swagger/` (or click [here](http://localhost:3000/swagger/) - if you already started the server) and try use on localhost server or Google server.
+
+### Onlyne API
+
+You can access all routes at `https://us-central1-riskident-test.cloudfunctions.net/api` and do requests like this `https://us-central1-riskident-test.cloudfunctions.net/api/transactions?transactionId=5c868b22eb7069b50c6d2d32&confidenceLevel=0.5`
