@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "es2017",
+		"declaration": true,
+		"removeComments": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"outDir": "./lib",
+		"baseUrl": "./",
+		"incremental": true,
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+		"strictPropertyInitialization": false
+	},
+	"compileOnSave": true,
+	"include": ["src"],
+	"exclude": ["node_modules", "lib"]
+}
