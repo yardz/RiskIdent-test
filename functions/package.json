@@ -35,7 +35,7 @@
     "class-transformer": "^0.3.1",
     "class-validator": "^0.11.0",
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-rate-limit": "^5.0.0",
     "firebase-admin": "^8.0.0",
     "firebase-functions": "^3.1.0",
